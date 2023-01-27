@@ -112,7 +112,8 @@ math.html :
 
 
 # OUTPUT:
-![Uploading Screenshot (10).png…]()
+![Screenshot (10)](https://user-images.githubusercontent.com/119643845/215038385-b136cc19-2860-48fb-bfc1-4673dc15595e.png)
+
 
 # RESULT:
 
