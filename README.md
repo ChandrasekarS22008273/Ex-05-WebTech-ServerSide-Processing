@@ -85,6 +85,7 @@ math.html :
         font-size: 20px;
     }
 </style>
+    
 <body>
     <div class="container">
         <h1>AREA OF A TRIANGLE</h1>
