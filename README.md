@@ -40,7 +40,7 @@ Publish the website in the given URL
 
 # PROGRAM:
 math.html :
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -108,7 +108,7 @@ math.html :
      <p>Developed by S Chandrasekar  (22009103)</p>
 </body>
 </html>
-
+```
 
 
 
